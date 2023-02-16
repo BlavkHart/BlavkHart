@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlavkHart
-- 👀 I’m interested in web design and cyber security
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on beginner projects in web design
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python Libraries for data science
+- 💞️ I’m looking to collaborate on beginner projects in Data analytics
 - 📫 How to reach me is gorhransford17@gmail.com or my number is +233594231242
 
 <!---
